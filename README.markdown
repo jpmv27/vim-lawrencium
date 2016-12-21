@@ -1,3 +1,12 @@
+**This is a FORK of https://github.com/ludovicchabant/vim-lawrencium**
+
+Changes:
+
+- Add .gitignore for doc/tags
+
+Changes are licensed under the same terms as the original
+
+# Original README
 
 Lawrencium
 ==========
